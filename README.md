@@ -1,2 +1,1 @@
-# qt
-qt creator geekbrains lessons
+QT_GB
